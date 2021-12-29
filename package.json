@@ -1,7 +1,8 @@
 {
     "name": "ez-theme",
     "displayName": "ez.theme",
-    "description": "",
+    "repository": "https://github.com/ahmed-ahmed/ez-theme",
+    "description": "VS-Code ligh theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
@@ -17,5 +18,8 @@
                 "path": "./themes/Easy Theme (Light)-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^2.5.3"
     }
 }
