@@ -1,6 +1,7 @@
 {
-    "name": "ez-theme",
+    "name": "ez-syntax-theme",
     "displayName": "ez.theme",
+    "publisher": "ez-syntax",
     "repository": "https://github.com/ahmed-ahmed/ez-theme",
     "description": "VS-Code ligh theme",
     "version": "0.0.1",
