@@ -4,9 +4,11 @@ A light theme with bluesh colors
 
 Main Colors:  
 
-- ![#f0f6fc](https://via.placeholder.com/15/f0f6fc/000000?text=+) `#f0f6fc`
-- ![#333333](https://via.placeholder.com/15/333333/000000?text=+) `#333333`
-- ![#203d5e](https://via.placeholder.com/15/203d5e/000000?text=+) `#203d5e`
+- ![#1E293B](https://via.placeholder.com/15/1E293B/000000?text=+) `#1E293B`
+- ![#F8FAFC](https://via.placeholder.com/15/F8FAFC/000000?text=+) `#F8FAFC`
+- ![#F4F4F5](https://via.placeholder.com/15/F4F4F5/000000?text=+) `#F4F4F5`
+
+
 - ![#3A76C4](https://via.placeholder.com/15/3A76C4/000000?text=+) `#3A76C4`
 - ![#4B83CD](https://via.placeholder.com/15/4B83CD/000000?text=+) `#4B83CD`
 - ![#AB6526](https://via.placeholder.com/15/AB6526/000000?text=+) `#AB6526`
